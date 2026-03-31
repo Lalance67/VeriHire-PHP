@@ -8,7 +8,7 @@ A Soroban smart contract deployed on the Stellar network for secure academic cer
 
 **Stellar Lab Explorer**: [View Contract](https://lab.stellar.org/r/testnet/contract/CBWLBDLCFA35HQAU4LT43MRI5W7FYMT7P4UWPXRRGST7RB5IIDFQWYQA)
 
-![screenshot](C:\Users\lance\Downloads)
+![screenshot](images/Screenshot 2026-03-31 170018.png)
 
 
 ## 📋 Overview
