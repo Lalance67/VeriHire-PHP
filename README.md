@@ -8,6 +8,9 @@ A Soroban smart contract deployed on the Stellar network for secure academic cer
 
 **Stellar Lab Explorer**: [View Contract](https://lab.stellar.org/r/testnet/contract/CBWLBDLCFA35HQAU4LT43MRI5W7FYMT7P4UWPXRRGST7RB5IIDFQWYQA)
 
+![Alt text](Gallery)
+
+
 ## 📋 Overview
 
 VeriHire enables universities to register student certificates on the Stellar blockchain and employers to verify them before making hiring payments. This ensures immutable, decentralized certificate verification.
